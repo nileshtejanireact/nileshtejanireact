@@ -14,4 +14,4 @@ TOP-RATED Shopify PLUS, Shopify E-commerce Expert.
 
 🌐 Find Me Online
 
-- 📫 You can reach me on <a href="https://www.linkedin.com/in/nilesh-tejani/">Linkdin</a> OR Upwork
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/nilesh-tejani/" target="_blank">Linkdin</a> OR <a href="https://www.upwork.com/freelancers/~01f7c2b0b17e9c9b8d" target="_blank">Upwork</a>
