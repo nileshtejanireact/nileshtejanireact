@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there I'm Nilesh Tejani👋
 
-<!--
-**nileshtejanireact/nileshtejanireact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Looking for a Shopify and React expert who can fix problems that other developers cannot fix?
 
-Here are some ideas to get you started:
+TOP-RATED Shopify PLUS, Shopify E-commerce Expert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 2500+ Hrs Experience on Upwork.
+🏆 100% Job Success ratio.
+🏆 1000 Successfully satisfied project outcomes.
+
+## 💼 Professional Experience
+
+- 💬 Ask me about ReactJS, NextJS and NodeJs
+
+🌐 Find Me Online
+
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/nilesh-tejani/">Linkdin</a> OR Upwork
